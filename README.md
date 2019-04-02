@@ -1,4 +1,4 @@
-<img alt="looptimer" src="https://github.com/dav-ell/looptimer/blob/master/icon-left-font.png" width="300" height="300">
+<img alt="looptimer" src="https://github.com/dav-ell/looptimer/blob/master/logo.png" width=364 height=82>
 
 Quickly time your loops with a single line of code. Take code like this
 
