@@ -10,6 +10,7 @@ for i in arr:
 and time it like this
 
 ```
+from looptimer import timing
 for i in timing(arr):
   # do something
 ```
