@@ -38,15 +38,15 @@ Print every N iterations using the `every_n` parameter.
 
 ```
 arr = range(5)
-for i in timing(arr, every_n=2):
+for i in timing(arr, every_n=2): # prints every 2 iterations
     time.sleep(1)
 ```
 
-Print every N iterations using the `every_n` parameter.
+Print every % of your way through the data using the `every_fraction` parameter.
 
 ```
 arr = range(5)
-for i in timing(arr, every_fraction=0.5):
+for i in timing(arr, every_fraction=0.5): # prints every 50% of the way through the data
     time.sleep(1)
 ```
 
